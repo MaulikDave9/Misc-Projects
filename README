@@ -1,0 +1,17 @@
+ (1) Events.py - Using Panda to explore the data. 
+ 
+~/Development/Misc-Projects/Code$ ./Events.py
+
+     sessionId             artist  n_events
+103        849       3 Doors Down         2
+116        849  Frightened Rabbit         2
+
+     sessionId             artist  n_events
+71         692      Paulina Rubio         2
+103        849       3 Doors Down         2
+116        849  Frightened Rabbit         2
+174        888         Jason Mraz         2
+251        898              Train         2
+289        910     Arctic Monkeys         2
+297        910      Justin Bieber         2
+
