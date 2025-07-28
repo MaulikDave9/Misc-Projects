@@ -15,3 +15,10 @@
 289        910     Arctic Monkeys         2
 297        910      Justin Bieber         2
 
+(2) Events_withbuildinlib.py - Using buildin libraries, find list of every sessionId that features at least two events for the same artist.
+
+Using dictionary to have sessionId, Artist as keys and number of events as values.
+
+~/Development/Misc-Projects/Code$ ./Events_withbuildinlib.py 
+{('888', 'Jason Mraz'): 2, ('692', 'Paulina Rubio'): 2, ('849', 'Frightened Rabbit'): 2, ('898', 'Train'): 2, ('910', 'Justin Bieber'): 2, ('849', '3 Doors Down'): 2, ('910', 'Arctic Monkeys'): 2}
+
